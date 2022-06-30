@@ -9,6 +9,10 @@ form * {
 }
 
 #checkbox {
-  display:inline;
-
+  display: inline;
+}
+#amsterdam-iframe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
